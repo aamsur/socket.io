@@ -24,4 +24,4 @@ the chatroom.
 
 ## Clients
 
-You can use ionic socket.io client from here github.com:aamsur/ionic-socket.io.git and listen to this server with 127.0.0.1:3000 (optional)
+You can use ionic socket.io client from here http://github.com/aamsur/ionic-socket.io and listen to this server with 127.0.0.1:3000 (optional)
